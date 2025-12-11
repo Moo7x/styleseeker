@@ -5,11 +5,15 @@ __pycache__/
 
 # Data
 data/
-
+weaviate_data/
 # Frontend
 frontend/node_modules/
 frontend/.next/
 frontend/build/
+frontend/dist/
 
 # Environment variables
 backend/.env
+
+.vscode/
+.idea/
